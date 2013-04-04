@@ -1,4 +1,4 @@
 markalldown
 ===========
 
-Combine multiple markdown files (or any other files)
+Combine multiple markdown files

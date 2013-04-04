@@ -16,7 +16,7 @@ var program = require('commander') // command line options
 // commander options
 program
   .version('0.0.1')
-  .option('-o', '--output', 'Create README.md on current directory')
+  .option('-o, --output', 'Create README.md on current directory')
   .usage('[directory]')
   .parse(process.argv);
 

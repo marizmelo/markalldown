@@ -1,0 +1,3 @@
++ README.md only if user set -o or --output option
++ generate README.md on current directory
++ combine md files

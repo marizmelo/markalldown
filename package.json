@@ -1,0 +1,26 @@
+{
+  "name": "markalldown",
+  "version": "0.0.1",
+  "description": "Combine multiple markdown files (or any other files)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://marizmelo@github.com:markalldown.git"
+  },
+  "keywords": [
+    "markdown",
+    "combine",
+    "merge",
+    "files"
+  ],
+  "author": "Mariz Melo",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "5b64a809ba5719dcf3d272ba1ebb7f03dddee735",
+  "dependencies": {
+    "commander": ""
+  }
+}

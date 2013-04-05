@@ -13,15 +13,15 @@ Use Markalldown like this:
 
 1) Current directory
 
-    mdall
+    markalldown
 
 2) Select other directory
 
-    mdall dir_name
+    markalldown dir_name
 
 3) Output README.md file
 
-    mdall dir_name -o
+    markalldown dir_name -o
 
 
 OPTIONS

@@ -6,7 +6,7 @@ INTALLATION
 -----------
 Use **npm** to install Markalldown:
 
-    npm install mdall -g
+    npm install markalldown -g
 
     
 Use MarkdownALL like this:

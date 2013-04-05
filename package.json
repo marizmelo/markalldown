@@ -1,5 +1,5 @@
 {
-  "name": "Markalldown",
+  "name": "markalldown",
   "version": "0.0.1",
   "description": "Combine multiple markdown files",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://marizmelo@github.com:markalldown.git"
+    "url": "http://github.com/marizmelo/markalldown"
   },
   "keywords": [
     "markdown",

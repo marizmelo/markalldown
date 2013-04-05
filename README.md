@@ -9,7 +9,7 @@ Use **npm** to install Markalldown:
     npm install markalldown -g
 
     
-Use MarkdownALL like this:
+Use Markalldown like this:
 
 1) Current directory
 

@@ -22,13 +22,13 @@ program
 
 // check if user specified directory
 if (program.args[0]) {
-  markalldown.mark.model.dir = program.args[0];
+  markalldown.mdall.model.dir = program.args[0];
 }
 
 // check if should create output file
 if (program.output) {
-  markalldown.mark.model.output = true;
+  markalldown.mdall.model.output = true;
 }
 
 // execute program
-markalldown.mark.init();
+markalldown.mdall.init();

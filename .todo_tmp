@@ -1,3 +1,5 @@
-+ README.md only if user set -o or --output option
-+ generate README.md on current directory
-+ combine md files
+- Allow output of combined .md files to README.md
+- Allow change of target directory
+- Current directory as default target
+- Display combined .md files on console
+- Combine .md files

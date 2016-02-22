@@ -2,7 +2,7 @@ Markalldown
 ============
 Combine multiple markdown files
 
-INTALLATION
+INSTALLATION
 -----------
 Use **npm** to install Markalldown:
 
